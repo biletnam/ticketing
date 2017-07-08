@@ -35,6 +35,7 @@
     }
   },
   "payment": {
+    "currency": "£",
     "deadline": 3,
     "method": "bacs",
     "account": {
@@ -42,5 +43,7 @@
       "sort_code": "40-01-10",
       "number": "12345678"
     }
-  }
+  },
+  "agreement": "I agree to the Terms and Conditions and warrants that the information provided are accurate to the best
+    of my knowledge."
 }
