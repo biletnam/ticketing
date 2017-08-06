@@ -45,5 +45,12 @@
     }
   },
   "agreement": "I agree to the Terms and Conditions and warrants that the information provided are accurate to the best
-    of my knowledge."
+    of my knowledge.",
+  "transfer": {
+    "open": true,
+    "fee": 20
+  },
+  "ticket_request": {
+    "open": true
+  }
 }
