@@ -37,7 +37,6 @@
   "payment": {
     "currency": "£",
     "deadline": 3,
-    "method": "bacs",
     "account": {
       "name": "The May Ball Co. Ltd.",
       "sort_code": "40-01-10",
