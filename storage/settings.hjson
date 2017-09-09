@@ -19,7 +19,13 @@
 
 {
   "system": {
-    "title": "Jano Ticketing System"
+    "title": "Jano Ticketing System",
+    "google_maps_key": "AIzaSyAiPdQnS2OhHFuG9d4yMQJfRG5g2YW9e_M",
+  },
+  "event": {
+    "name": "Downing May Ball 2017",
+    "date": "20/6/2017",
+    "cover_image": "cover_image.jpg"
   },
   "register": {
     "default_group": 1,
